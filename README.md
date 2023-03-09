@@ -1,2 +1,7 @@
-# PhotoUpload
-Upload photos to S3 bucket using Spring Boot backend and ReactJS frontend
+# PhotoUploadS3
+Upload photos to Amazon S3 bucket using Spring Boot backend and ReactJS frontend
+
+<img width="782" alt="Screenshot 2023-03-09 at 6 57 25 PM" src="https://user-images.githubusercontent.com/51170353/224003668-ae0d1075-29b3-4883-84fa-8e7fa720027e.png">
+
+Using this simple architecture
+![Screenshot 2023-03-09 at 7 00 28 PM](https://user-images.githubusercontent.com/51170353/224004344-36cd564a-ec68-42b6-baec-4bd88a19d5c8.png)
